@@ -1,4 +1,5 @@
 #Camera traip script 
+#All rights reserved
 
 Read data file
 
