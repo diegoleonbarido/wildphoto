@@ -1,3 +1,5 @@
+#Hi there, good morning!
+
 #Camera traip script 
 #All rights reserved
 
